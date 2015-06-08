@@ -15,7 +15,7 @@ LENGTH   OFFSET   FUNCTION
   2         4    LENGTH FOR READ OR WRITE
   11        6    NAME OF FILE WITH EXTENSION
                  (OR) PIN OF READER AND WRITER
-                    FOR A PIPE
+                  FOR A PIPE
   1         17   IF FILE THEN DRIVE FILE IS ON
 
 *MESSAGE RECEIVE OFFSETS*
